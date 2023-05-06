@@ -1,6 +1,7 @@
 Helper: 
 Fairplex for the blender tips
 Celine-Chan for the optimization tips
+Furfu for the Reverb Zone Script
 
 Patreon: 
 Neko Tipaine (Super Vip 5€/mois)
