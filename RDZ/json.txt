@@ -2,7 +2,7 @@
   "Patreon": {
     "PlayerName" : {
       "_Ranily_",
-      "Tontondemon",
-    },
+      "Tontondemon"
+    }
   }
 }                    
